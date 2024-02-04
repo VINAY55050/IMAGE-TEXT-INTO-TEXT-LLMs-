@@ -40,3 +40,4 @@ vicuna-13b-q5_k.gguf filter=lfs diff=lfs merge=lfs -text
 ggml-model-q6_k.gguf filter=lfs diff=lfs merge=lfs -text
 vicuna-7b-mmproj-model-f16-q6_k.gguf filter=lfs diff=lfs merge=lfs -text
 vicuna-7b-q5_k.gguf filter=lfs diff=lfs merge=lfs -text
+vicuna-13b-q6_k.gguf filter=lfs diff=lfs merge=lfs -text
