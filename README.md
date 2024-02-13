@@ -10,3 +10,6 @@ The mmproj files are the embedded ViT's that came with llava-1.6, I've not compa
 If that's the case, using another ViT can cause issues.
 
 Original models: https://github.com/haotian-liu/LLaVA
+
+For more llava-34B quantization variants check here: https://huggingface.co/cjpais/llava-v1.6-34B-gguf
+Warning: Do NOT use the mmproj model from that page, use the 34B mmproj from here and combine it with any of the llm-GGUFs
