@@ -1,7 +1,7 @@
 ---
 license: apache-2.0
 ---
-Required PR: https://github.com/ggerganov/llama.cpp/pull/5267
+Update: PR is merged, llama.cpp now natively supports these models 
 Important: Verify that processing a simple question with any image at least uses 1200 tokens of prompt processing, that shows that the new PR is in use.
 If your prompt is just 576 + a few tokens, you are using llava-1.5 code (or projector) and this is incompatible with llava-1.6
 
