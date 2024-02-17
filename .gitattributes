@@ -51,3 +51,4 @@ mmproj-vicuna7b-f16.gguf filter=lfs diff=lfs merge=lfs -text
 mmproj-llava-34b-f16-q6_k.gguf filter=lfs diff=lfs merge=lfs -text
 ggml-yi-34b-f16-q_3_k.gguf filter=lfs diff=lfs merge=lfs -text
 ggml-yi-34b-f16-q_5_k.gguf filter=lfs diff=lfs merge=lfs -text
+ggml-mistral-q_4_k.gguf filter=lfs diff=lfs merge=lfs -text
