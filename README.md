@@ -12,5 +12,3 @@ If your prompt is just 576 + a few tokens, you are using llava-1.5 code (or proj
 The mmproj files are the embedded ViT's that came with llava-1.6, I've not compared them but given the previous releases from the team I'd be surprised if the ViT has not been fine tuned this time.
 If that's the case, using another ViT can cause issues.  
 You need to use the mmproj of the right model but you can mix quantizations.  
-
-Original models: https://github.com/haotian-liu/LLaVA
